@@ -12,6 +12,7 @@ I'm currently working on the Medline operations problem navigator
 **My goal this cycle:** I want to become either a cybersecurity archeitect\
  <details>
    <summary>My favorite artists. </summary>
+   
    +Michael jackson
    +Whitney houston
    +Beyonce  
