@@ -11,4 +11,15 @@ I'm currently working on the Medline operations problem navigator
 
 **My goal this cycle:** I want to become a cybersecurity archeitect
 
+<details>
+ <summary>My favorite artists</summary>
+
+<ul>
+ <li>Michael jackson</li>
+ <li>Whitney houston</li>
+ <li>Beyonce</li>
+</ul>
+
+</details>
+
 **Reach me at** [My outlook account](Mailto:Nrichardson@icstars.org)
