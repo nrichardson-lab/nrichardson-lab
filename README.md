@@ -1,4 +1,4 @@
-<div>
+<div allign="center">
   <img src="https://github.com/nrichardson-lab.png" width="150" />
 <h1> Hi, my name is Notalia</h1>
 </div>
