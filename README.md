@@ -7,4 +7,6 @@ I'm currently working on the Medline operations problem navigator
 
 **:Currently Building:** Project for Medline
 
-**My goal this cycle:** I want to become either a cybersecurity archeitect
+**My goal this cycle:** I want to become either a cybersecurity archeitect\
+
+**Reach me at** [My outlook account](Mailto:Nrichardson@icstars.org)
